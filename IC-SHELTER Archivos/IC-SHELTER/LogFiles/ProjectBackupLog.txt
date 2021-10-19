@@ -1,0 +1,12 @@
+[2021-10-04 18.29.28] Successfully created [AutoSave] backup [2021-10-04 18.29.28 - auto.zip] requested by [DESKTOP-ANU9D3M:Acero].
+[2021-10-10 15.22.53] Successfully created [AutoSave] backup [2021-10-10 15.22.53 - auto.zip] requested by [DESKTOP-ANU9D3M:Acero].
+[2021-10-10 19.22.55] Successfully created [AutoSave] backup [2021-10-10 19.22.53 - auto.zip] requested by [DESKTOP-ANU9D3M:Acero].
+[2021-10-11 13.31.16] Successfully created [AutoSave] backup [2021-10-11 13.31.16 - auto.zip] requested by [DESKTOP-ANU9D3M:Acero].
+[2021-10-11 13.31.16] Removing excessive [AutoSave] backup file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-10-04 18.29.28 - auto.zip].
+[2021-10-11 13.31.16] [AutoSave] backup file [IC-SHELTER\ProjectBackup\backups\2021-10-04 18.29.28 - auto.zip] removed.
+[2021-10-11 17.31.16] Successfully created [AutoSave] backup [2021-10-11 17.31.16 - auto.zip] requested by [DESKTOP-ANU9D3M:Acero].
+[2021-10-11 17.31.16] Removing excessive [AutoSave] backup file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-10-10 15.22.53 - auto.zip].
+[2021-10-11 17.31.16] [AutoSave] backup file [IC-SHELTER\ProjectBackup\backups\2021-10-10 15.22.53 - auto.zip] removed.
+[2021-10-18 17.00.30] Successfully created [AutoSave] backup [2021-10-18 17.00.29 - auto.zip] requested by [DESKTOP-ANU9D3M:Acero].
+[2021-10-18 17.00.30] Removing excessive [AutoSave] backup file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-10-10 19.22.53 - auto.zip].
+[2021-10-18 17.00.30] [AutoSave] backup file [IC-SHELTER\ProjectBackup\backups\2021-10-10 19.22.53 - auto.zip] removed.

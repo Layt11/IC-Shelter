@@ -1,0 +1,213 @@
+pcb: Note 6049: TOP com $1I25\$1I242\$1I95: Repacking (duplicate slot)
+pcb: Note 6047: TOP com $1I25\$1I247\$1I64: Repacking (pin # not on symbol)
+pcb: Note 6047: TOP com $1I25\$1I247\$1I64: Repacking (pin # not on symbol)
+pcb: Note 6046: TOP com $1I25\$1I249\$1I28: Repacking (device conflict)
+pcb: Note 6085: TOP pkg U3: 2 empty slot(s), device ULN2003A_SOIC16
+pcb: Warning 6083: TOP pin $1I25\$1I202\$1I72.PTA7: Single pin net: $1I25\RLY_OUT2_MICRO
+pcb: Warning 6083: TOP pin $1I25\$1I202\$1I72.PTA6: Single pin net: $1I25\RLY_OUT1_MICRO
+pcb: Warning 6083: TOP pin $1I25\$1I202\$1I72.PTD4: Single pin net: $1I25\RLY_FAN3_MICRO
+pcb: Warning 6083: TOP pin $1I25\$1I202\$1I72.PTD3: Single pin net: $1I25\RLY_FAN2_MICRO
+pcb: Warning 6083: TOP pin $1I25\$1I202\$1I72.PTD2: Single pin net: $1I25\RLY_FAN1_MICRO
+pcb: Warning 6094: TOP pin $1I25\$1I249\$1I341.TP: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I64.1: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I64.2: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I383.1: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I383.2: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I379.1: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I379.2: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I371.1: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I371.2: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I367.1: Pin not connected
+pcb: Warning 6094: TOP pin $1I25\$1I247\$1I367.2: Pin not connected
+pcb: Note 5854: Instance value (REFDES=U1) was added to instance ($1I25\$1I202\$1I72) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R36) was added to instance ($1I25\$1I202\$1I128) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=D22) was added to instance ($1I25\$1I202\$1I130) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=DS2) was added to instance ($1I25\$1I202\$1I161) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I283) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I283) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R9) was added to instance ($1I25\$1I202\$1I283) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=DS1) was added to instance ($1I25\$1I202\$1I325) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I409) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I409) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R13) was added to instance ($1I25\$1I202\$1I409) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=X1) was added to instance ($1I25\$1I202\$1I553) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I562) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I562) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R14) was added to instance ($1I25\$1I202\$1I562) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=C1) was added to instance ($1I25\$1I202\$1I571) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=C2) was added to instance ($1I25\$1I202\$1I579) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=PB1) was added to instance ($1I25\$1I202\$1I605) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=CAPC2013X100N) was added to instance ($1I25\$1I202\$1I611) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=C3) was added to instance ($1I25\$1I202\$1I611) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=J7) was added to instance ($1I25\$1I202\$1I638) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R3) was added to instance ($1I25\$1I202\$1I670) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R4) was added to instance ($1I25\$1I202\$1I676) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R5) was added to instance ($1I25\$1I202\$1I682) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R7) was added to instance ($1I25\$1I202\$1I703) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R8) was added to instance ($1I25\$1I202\$1I704) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=J8) was added to instance ($1I25\$1I202\$1I740) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I767) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I767) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R15) was added to instance ($1I25\$1I202\$1I767) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I776) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I776) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R16) was added to instance ($1I25\$1I202\$1I776) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I785) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I785) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R17) was added to instance ($1I25\$1I202\$1I785) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I804) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I804) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R18) was added to instance ($1I25\$1I202\$1I804) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I813) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I813) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R19) was added to instance ($1I25\$1I202\$1I813) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I822) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I822) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R20) was added to instance ($1I25\$1I202\$1I822) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I831) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I831) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R21) was added to instance ($1I25\$1I202\$1I831) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I840) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I840) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R22) was added to instance ($1I25\$1I202\$1I840) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I849) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I849) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R23) was added to instance ($1I25\$1I202\$1I849) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I858) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I858) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R24) was added to instance ($1I25\$1I202\$1I858) on (FUB203).
+pcb: Note 5854: Instance value (DEVICE=RESISTOR) was added to instance ($1I25\$1I202\$1I867) on (FUB203).
+pcb: Note 5854: Instance value (PKG_TYPE=RES_SMD_0805) was added to instance ($1I25\$1I202\$1I867) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R26) was added to instance ($1I25\$1I202\$1I867) on (FUB203).
+pcb: Note 5854: Instance value (REFDES=R6) was added to instance ($1I25\$1I238\$1I60) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=D4) was added to instance ($1I25\$1I238\$1I70) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=U7) was added to instance ($1I25\$1I238\$1I82) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R25) was added to instance ($1I25\$1I238\$1I90) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R12) was added to instance ($1I25\$1I238\$1I102) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R11) was added to instance ($1I25\$1I238\$1I112) on (FUB239).
+pcb: Note 5854: Instance value (PKG_TYPE=CAP_SMD_0805) was added to instance ($1I25\$1I238\$1I130) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=C4) was added to instance ($1I25\$1I238\$1I130) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R30) was added to instance ($1I25\$1I238\$1I171) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=D1) was added to instance ($1I25\$1I238\$1I172) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=U2) was added to instance ($1I25\$1I238\$1I173) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R34) was added to instance ($1I25\$1I238\$1I175) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R35) was added to instance ($1I25\$1I238\$1I177) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R37) was added to instance ($1I25\$1I238\$1I178) on (FUB239).
+pcb: Note 5854: Instance value (PKG_TYPE=CAP_SMD_0805) was added to instance ($1I25\$1I238\$1I180) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=C5) was added to instance ($1I25\$1I238\$1I180) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R38) was added to instance ($1I25\$1I238\$1I356) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=D2) was added to instance ($1I25\$1I238\$1I357) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=U4) was added to instance ($1I25\$1I238\$1I358) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R39) was added to instance ($1I25\$1I238\$1I360) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R40) was added to instance ($1I25\$1I238\$1I362) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R41) was added to instance ($1I25\$1I238\$1I363) on (FUB239).
+pcb: Note 5854: Instance value (PKG_TYPE=CAP_SMD_0805) was added to instance ($1I25\$1I238\$1I365) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=C6) was added to instance ($1I25\$1I238\$1I365) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R42) was added to instance ($1I25\$1I238\$1I368) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=D3) was added to instance ($1I25\$1I238\$1I369) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=U5) was added to instance ($1I25\$1I238\$1I370) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R43) was added to instance ($1I25\$1I238\$1I372) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R44) was added to instance ($1I25\$1I238\$1I374) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=R45) was added to instance ($1I25\$1I238\$1I375) on (FUB239).
+pcb: Note 5854: Instance value (PKG_TYPE=CAP_SMD_0805) was added to instance ($1I25\$1I238\$1I377) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=C11) was added to instance ($1I25\$1I238\$1I377) on (FUB239).
+pcb: Note 5854: Instance value (REFDES=U6) was added to instance ($1I25\$1I242\$1I36) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=R1) was added to instance ($1I25\$1I242\$1I47) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=R2) was added to instance ($1I25\$1I242\$1I71) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=R57) was added to instance ($1I25\$1I242\$1I83) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=D5) was added to instance ($1I25\$1I242\$1I95) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=D15) was added to instance ($1I25\$1I242\$1I117) on (FUB243).
+pcb: Note 5854: Instance value (PKG_TYPE=SOT23-3) was added to instance ($1I25\$1I242\$1I123) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=U8) was added to instance ($1I25\$1I242\$1I123) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=R27) was added to instance ($1I25\$1I242\$1I137) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=R28) was added to instance ($1I25\$1I242\$1I147) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=F1) was added to instance ($1I25\$1I242\$1I165) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=F2) was added to instance ($1I25\$1I242\$1I169) on (FUB243).
+pcb: Note 5854: Instance value (REFDES=U9) was added to instance ($1I25\$1I245\$1I40) on (FUB246).
+pcb: Note 5854: Instance value (REFDES=D16) was added to instance ($1I25\$1I245\$1I53) on (FUB246).
+pcb: Note 5854: Instance value (REFDES=R29) was added to instance ($1I25\$1I245\$1I66) on (FUB246).
+pcb: Note 5854: Instance value (REFDES=R47) was added to instance ($1I25\$1I245\$1I75) on (FUB246).
+pcb: Note 5854: Instance value (PKG_TYPE=SOT23-3) was added to instance ($1I25\$1I245\$1I98) on (FUB246).
+pcb: Note 5854: Instance value (REFDES=U10) was added to instance ($1I25\$1I245\$1I98) on (FUB246).
+pcb: Note 5854: Instance value (PKG_TYPE=CAPC2013X100N) was added to instance ($1I25\$1I245\$1I115) on (FUB246).
+pcb: Note 5854: Instance value (REFDES=C8) was added to instance ($1I25\$1I245\$1I115) on (FUB246).
+pcb: Note 5854: Instance value (PKG_TYPE=CAPC2013X100N) was added to instance ($1I25\$1I245\$1I135) on (FUB246).
+pcb: Note 5854: Instance value (REFDES=C7) was added to instance ($1I25\$1I245\$1I135) on (FUB246).
+pcb: Note 5854: Instance value (REFDES=R48) was added to instance ($1I25\$1I245\$1I163) on (FUB246).
+pcb: Note 5824: Property (#=16) was added to pin (2) of instance ($1I64) on (FUB248).
+pcb: Note 5824: Property (#=1) was added to pin (1) of instance ($1I64) on (FUB248).
+pcb: Note 5854: Instance value (PKG_TYPE=ON_SOIC_16) was added to instance ($1I25\$1I247\$1I64) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=U3) was added to instance ($1I25\$1I247\$1I64) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=R10) was added to instance ($1I25\$1I247\$1I112) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=D6) was added to instance ($1I25\$1I247\$1I114) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=R49) was added to instance ($1I25\$1I247\$1I147) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=D7) was added to instance ($1I25\$1I247\$1I148) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=R50) was added to instance ($1I25\$1I247\$1I161) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=D8) was added to instance ($1I25\$1I247\$1I162) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=R51) was added to instance ($1I25\$1I247\$1I203) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=D9) was added to instance ($1I25\$1I247\$1I204) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=K4) was added to instance ($1I25\$1I247\$1I229) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=K5) was added to instance ($1I25\$1I247\$1I243) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=K3) was added to instance ($1I25\$1I247\$1I263) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=K2) was added to instance ($1I25\$1I247\$1I273) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=K1) was added to instance ($1I25\$1I247\$1I293) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=R52) was added to instance ($1I25\$1I247\$1I332) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=D10) was added to instance ($1I25\$1I247\$1I333) on (FUB248).
+pcb: Note 5824: Property (#=15) was added to pin (2) of instance ($1I367) on (FUB248).
+pcb: Note 5824: Property (#=2) was added to pin (1) of instance ($1I367) on (FUB248).
+pcb: Note 5854: Instance value (PKG_TYPE=ON_SOIC_16) was added to instance ($1I25\$1I247\$1I367) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=U3) was added to instance ($1I25\$1I247\$1I367) on (FUB248).
+pcb: Note 5824: Property (#=14) was added to pin (2) of instance ($1I371) on (FUB248).
+pcb: Note 5824: Property (#=3) was added to pin (1) of instance ($1I371) on (FUB248).
+pcb: Note 5854: Instance value (PKG_TYPE=ON_SOIC_16) was added to instance ($1I25\$1I247\$1I371) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=U3) was added to instance ($1I25\$1I247\$1I371) on (FUB248).
+pcb: Note 5824: Property (#=13) was added to pin (2) of instance ($1I379) on (FUB248).
+pcb: Note 5824: Property (#=4) was added to pin (1) of instance ($1I379) on (FUB248).
+pcb: Note 5854: Instance value (PKG_TYPE=ON_SOIC_16) was added to instance ($1I25\$1I247\$1I379) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=U3) was added to instance ($1I25\$1I247\$1I379) on (FUB248).
+pcb: Note 5824: Property (#=12) was added to pin (2) of instance ($1I383) on (FUB248).
+pcb: Note 5824: Property (#=5) was added to pin (1) of instance ($1I383) on (FUB248).
+pcb: Note 5854: Instance value (PKG_TYPE=ON_SOIC_16) was added to instance ($1I25\$1I247\$1I383) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=U3) was added to instance ($1I25\$1I247\$1I383) on (FUB248).
+pcb: Note 5854: Instance value (REFDES=F5) was added to instance ($1I25\$1I249\$1I28) on (FUB250).
+pcb: Note 5854: Instance value (DEVICE=P10V275) was added to instance ($1I25\$1I249\$1I43) on (FUB250).
+pcb: Note 5854: Instance value (PKG_TYPE=VAR_P10V275) was added to instance ($1I25\$1I249\$1I43) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=TVS4) was added to instance ($1I25\$1I249\$1I43) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=PS1) was added to instance ($1I25\$1I249\$1I59) on (FUB250).
+pcb: Note 5854: Instance value (PKG_TYPE=1206MIL) was added to instance ($1I25\$1I249\$1I82) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=F3) was added to instance ($1I25\$1I249\$1I82) on (FUB250).
+pcb: Note 5854: Instance value (PKG_TYPE=1206MIL) was added to instance ($1I25\$1I249\$1I86) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=F4) was added to instance ($1I25\$1I249\$1I86) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=D17) was added to instance ($1I25\$1I249\$1I94) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=R31) was added to instance ($1I25\$1I249\$1I98) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=R32) was added to instance ($1I25\$1I249\$1I136) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=R33) was added to instance ($1I25\$1I249\$1I141) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=C9) was added to instance ($1I25\$1I249\$1I170) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=C10) was added to instance ($1I25\$1I249\$1I189) on (FUB250).
+pcb: Note 5854: Instance value (PKG_TYPE=DO-214AC) was added to instance ($1I25\$1I249\$1I225) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=TVS2) was added to instance ($1I25\$1I249\$1I225) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=U12) was added to instance ($1I25\$1I249\$1I239) on (FUB250).
+pcb: Note 5854: Instance value (PKG_TYPE=DO-214AC) was added to instance ($1I25\$1I249\$1I255) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=TVS3) was added to instance ($1I25\$1I249\$1I255) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=R46) was added to instance ($1I25\$1I249\$1I283) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=TP2) was added to instance ($1I25\$1I249\$1I313) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=D21) was added to instance ($1I25\$1I249\$1I321) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=TP1) was added to instance ($1I25\$1I249\$1I341) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=TP3) was added to instance ($1I25\$1I249\$1I344) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=U11) was added to instance ($1I25\$1I249\$1I354) on (FUB250).
+pcb: Note 5854: Instance value (PKG_TYPE=CAPAE530W610HN) was added to instance ($1I25\$1I249\$1I359) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=C21) was added to instance ($1I25\$1I249\$1I359) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=D19) was added to instance ($1I25\$1I249\$1I370) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=D18) was added to instance ($1I25\$1I249\$1I378) on (FUB250).
+pcb: Note 5854: Instance value (REFDES=J5) was added to instance ($1I41) on (TOP).
+pcb: Note 5854: Instance value (REFDES=J4) was added to instance ($1I52) on (TOP).
+pcb: Note 5854: Instance value (PKG_TYPE=PALYOO_DEGSON_PY-TB2EDGCR-5_0_2P) was added to instance ($1I57) on (TOP).
+pcb: Note 5854: Instance value (REFDES=J3) was added to instance ($1I57) on (TOP).
+pcb: Note 5854: Instance value (PKG_TYPE=PALYOO_DEGSON_PY-TB2EDGCR-5_0_2P) was added to instance ($1I119) on (TOP).
+pcb: Note 5854: Instance value (REFDES=J1) was added to instance ($1I119) on (TOP).
+pcb: Note 5854: Instance value (REFDES=J6) was added to instance ($1I133) on (TOP).
+pcb: Note 5854: Instance value (PKG_TYPE=PALYOO_DEGSON_PY-TB2EDGCR-5_0_2P) was added to instance ($1I199) on (TOP).
+pcb: Note 5854: Instance value (REFDES=J2) was added to instance ($1I199) on (TOP).
+pcb: Note 5626: Summary of LogFiles/pcberr.log
+Status 1, Notes 195, Warnings 16
+Errors 0, Failures 0, Fatals 0, Internals 0

@@ -1,0 +1,117 @@
+[2021.10.10 18:20:41] [0000m.00s.034ms] [0] WELCOME
+[2021.10.10 18:20:41] [0000m.00s.036ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.10 18:20:41] [0000m.00s.036ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.10 18:20:41] [0000m.00s.036ms] [1] Base flow version [VX.2.7]
+[2021.10.10 18:20:41] [0000m.00s.036ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.10 18:20:41] [0000m.00s.036ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.10 18:20:41] [0000m.00s.051ms] [1] Machine [DESKTOP-ANU9D3M]  IP [10.0.0.4,127.0.0.1,26.64.4.247]  User [Acero]  PID [12820]
+[2021.10.10 18:20:41] [0000m.00s.051ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19042)]
+[2021.10.10 18:20:41] [0000m.00s.051ms] [1] Current working dir [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER]
+[2021.10.10 18:20:41] [0000m.00s.051ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\Acero\AppData\Local\Microsoft\WindowsApps;C:\Users\Acero\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.10.10 18:20:41] [0000m.00s.051ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.10 18:20:41] [0000m.00s.051ms] [1] SDD_PLATFORM [win32]
+[2021.10.10 18:20:41] [0000m.00s.051ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.10 18:20:41] [0000m.00s.052ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.10 18:20:41] [0000m.00s.052ms] [2] S: Loading config files
+[2021.10.10 18:20:41] [0000m.00s.057ms] [1] Config file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\cdbsvr\Server.cfg] not found
+[2021.10.10 18:20:41] [0000m.00s.061ms] [3] S: Config loaded
+[2021.10.10 18:20:41] [0000m.00s.065ms] [0] S: Project path [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database] on file system [NTFS]
+[2021.10.10 18:20:41] [0000m.00s.065ms] [0] S: Project file (.prj) path [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\IC-SHELTER.prj] on file system [NTFS]
+[2021.10.10 18:20:41] [0000m.00s.065ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.10.10 18:20:41] [0000m.00s.066ms] [0] S: Single-user mode (auto)
+[2021.10.10 18:20:41] [0000m.00s.066ms] [0] S: Event polling mode autodetection
+[2021.10.10 18:20:41] [0000m.00s.067ms] [0] S: Started up automatically by iCDB Client: DESKTOP-ANU9D3M:Acero:15152
+[2021.10.10 18:20:41] [0000m.00s.067ms] [0] S: Auto close mode
+[2021.10.10 18:20:41] [0000m.00s.067ms] [0] S: Database ID [9650-dbaf-9e05-578c-a8d3-3610-9d33-6160-0f29-3791-b2f0-03eb]
+[2021.10.10 18:20:41] [0000m.00s.067ms] [0] PathTranslator: BEGIN dumping
+[2021.10.10 18:20:41] [0000m.00s.068ms] [0] PathTranslator: Local -> global path prefix list
+[2021.10.10 18:20:41] [0000m.00s.068ms] [0] PathTranslator: Global -> local path prefix list
+[2021.10.10 18:20:41] [0000m.00s.068ms] [0] PathTranslator: END dumping
+[2021.10.10 18:20:41] [0000m.00s.068ms] [0] S: START
+[2021.10.10 18:20:41] [0000m.00s.068ms] [0] S: Server startup lock file created
+[2021.10.10 18:20:41] [0000m.00s.069ms] [0] S: Listening for client connections on port [10000]
+[2021.10.10 18:20:41] [0000m.00s.071ms] [0] S: Server network ID [DESKTOP-ANU9D3M:10.0.0.4,26.64.4.247,DESKTOP-ANU9D3M:10000]
+[2021.10.10 18:20:41] [0000m.00s.072ms] [0] S: Server GUID [a6d4-63f3-ca8a-0dd5-9376-361f-3763-6160-0bd9-3791-b2f0-03eb]
+[2021.10.10 18:20:41] [0000m.00s.072ms] [0] S: Project GUID [9650-dbaf-9e05-578c-a8d3-3610-9d33-6160-0f29-3791-b2f0-03eb]
+[2021.10.10 18:20:41] [0000m.00s.075ms] [0] S: Wrote data to server address file
+[2021.10.10 18:20:41] [0000m.00s.075ms] [0] S: Server startup lock file removed
+[2021.10.10 18:20:41] [0000m.00s.076ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\IC-SHELTER.prj]
+[2021.10.10 18:20:41] [0000m.00s.207ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.10.10 18:20:41] [0000m.00s.207ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.10.10 18:20:41] [0000m.00s.207ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.10.10 18:20:41] [0000m.00s.210ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.10.10 18:20:41] [0000m.00s.210ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.10.10 18:20:41] [0000m.00s.210ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.10.10 18:20:41] [0000m.00s.211ms] [0] S: Local disc access time: 160 us
+[2021.10.10 18:20:41] [0000m.00s.211ms] [0] S: File server access time: 126 us
+[2021.10.10 18:20:41] [0000m.00s.213ms] [0] Single file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\icdb.dat] size [230984 (225.6 kB)]
+[2021.10.10 18:20:41] [0000m.00s.213ms] [1] Single file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\icdb.dat] opened in read-write mode
+[2021.10.10 18:20:41] [0000m.00s.213ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.10 18:20:41] [0000m.00s.213ms] [0] Database GUARD OK: [230984]
+[2021.10.10 18:20:41] [0000m.00s.214ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.10 18:20:41] [0000m.00s.215ms] [0] Database GUARD OK: [230984]
+[2021.10.10 18:20:41] [0000m.00s.215ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.10 18:20:41] [0000m.00s.215ms] [0] Database GUARD OK: [230984]
+[2021.10.10 18:20:41] [0000m.00s.215ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.10 18:20:41] [0000m.00s.215ms] [0] Database GUARD OK: [230984]
+[2021.10.10 18:20:41] [0000m.00s.216ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.10 18:20:41] [0000m.00s.216ms] [0] Database GUARD OK: [230984]
+[2021.10.10 18:20:41] [0000m.00s.216ms] [0] SingleFile: [3e5d-3951-ee39-bbc8] SFI version check [1009] [1009]
+[2021.10.10 18:20:41] [0000m.00s.222ms] [0] SingleFile: [3e5d-3951-ee39-bbc8] Database SFI header has been read in [5ms 999us]
+[2021.10.10 18:20:41] [0000m.00s.233ms] [0] iCDB Server PI: Server & plugin session [11]
+[2021.10.10 18:20:41] [0000m.00s.233ms] [0] iCDB Server PI: Opening database [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database]
+[2021.10.10 18:20:41] [0000m.00s.233ms] [0] iCDB Server PI: Database [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database] opened
+[2021.10.10 18:20:41] [0000m.00s.278ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.10.10 18:20:41] [0000m.00s.278ms] [0] iCDB Database: Checking constraint definitions version
+[2021.10.10 18:20:41] [0000m.00s.327ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.10.10 18:20:41] [0000m.00s.336ms] [0] iCDB Server PI: Initializing plugins
+[2021.10.10 18:20:41] [0000m.00s.336ms] [0] iCDB Server PI: Plugins initialized
+[2021.10.10 18:20:41] [0000m.00s.336ms] [0] S: iCDB database loaded
+[2021.10.10 18:20:41] [0000m.00s.338ms] [0] S: Starting threads
+[2021.10.10 18:20:41] [0000m.00s.339ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.10.10 18:20:41] [0000m.00s.339ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.10.10 18:20:41] [0000m.00s.343ms] [0] IT: Session [12] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [15152] created
+[2021.10.10 18:20:41] [0000m.00s.349ms] [1] SC[12]: Registered sub-client [DxD] with ID [1] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.352ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.10.10 18:20:41] [0000m.00s.435ms] [1] SC[12]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.454ms] [1] CMT: There are [1] clients now: 12
+[2021.10.10 18:20:41] [0000m.00s.469ms] [1] SC[12]: Registered sub-client [SymbolEditor] with ID [3] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.480ms] [1] SC[12]: Registered sub-client [SelectionHolder] with ID [4] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.541ms] [1] SC[12]: Registered sub-client [Core::DesignListener-726006416-2] with ID [5] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.546ms] [1] SC[12]: Registered sub-client [BlockCacheDxD:726006368] with ID [6] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.551ms] [1] SC[12]: Registered sub-client [Core::NetFlatData-10673] with ID [7] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.628ms] [1] SC[12]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.634ms] [1] SC[12]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:41] [0000m.00s.640ms] [1] SC[12]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:42] [0000m.01s.397ms] [1] SC[12]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:42] [0000m.01s.410ms] [1] SC[12]: Registered sub-client [HdlProject] with ID [11] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:42] [0000m.01s.423ms] [1] SC[12]: Registered sub-client [Navigator] with ID [12] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:42] [0000m.01s.450ms] [1] SC[12]: Registered sub-client [OutputWindow] with ID [13] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:42] [0000m.01s.457ms] [1] SC[12]: Registered sub-client [PlaceDevice] with ID [14] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:42] [0000m.01s.763ms] [1] SC[12]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:42] [0000m.01s.769ms] [1] SC[12]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.079ms] [1] SC[12]: Registered sub-client [FFSSelListener] with ID [17] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.087ms] [1] SC[12]: Registered sub-client [SAE] with ID [18] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.119ms] [1] SC[12]: Registered sub-client [DxConstraints] with ID [19] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.125ms] [1] SC[12]: Registered sub-client [CCZAddin] with ID [20] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.133ms] [1] SC[12]: Registered sub-client [DxThumbnails] with ID [21] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.141ms] [1] SC[12]: Registered sub-client [MyParts] with ID [22] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.189ms] [1] SC[12]: Registered sub-client [PinsList] with ID [23] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.293ms] [1] SC[12]: Registered sub-client [toolboxes] with ID [24] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.356ms] [1] SC[12]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.365ms] [1] SC[12]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:470808064] with ID [26] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.501ms] [1] SC[12]: Registered sub-client [SheetConnectorsCacheDxD:1633904445] with ID [27] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.535ms] [1] SC[12]: Registered sub-client [NetsNamesCollectorDxD:1633904445] with ID [28] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.573ms] [1] SC[12]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.579ms] [1] SC[12]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.615ms] [1] SC[12]: Registered sub-client [xprob] with ID [31] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.820ms] [1] SC[12]: Registered sub-client [StartServerClient3274] with ID [32] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:45] [0000m.04s.821ms] [1] SC[12]: UnRegistered sub-client [StartServerClient3274] with ID [32] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:51] [0000m.09s.961ms] [1] SC[12]: Registered sub-client [ObjectHolder_467810008] with ID [33] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:51] [0000m.09s.969ms] [1] SC[12]: Registered sub-client [BlockCacheDxD:718107752] with ID [34] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:51] [0000m.09s.976ms] [1] SC[12]: Registered sub-client [GlobalNetAliasUpdater_467810632] with ID [35] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:51] [0000m.09s.983ms] [1] SC[12]: Registered sub-client [IcdbNetProcessorSubClientDxD:872075088] with ID [36] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:20:52] [0000m.11s.299ms] [1] SC[12]: Registered sub-client [DxDbSearch] with ID [37] for session ID [12] host [DESKTOP-ANU9D3M] user [Acero] process ID [15152]
+[2021.10.10 18:21:11] [0000m.29s.998ms] [0] DFAMT: File server access time: 107 us
+[2021.10.10 19:22:55] [0062m.13s.924ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-10-10 19.22.53 - auto.zip] with GUID [4bc3-03b6-ce5e-90f5-dc57-3613-d573-6160-09e8-3791-b2f0-03eb]
+[2021.10.10 19:22:55] [0062m.13s.924ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[4bc3-03b6-ce5e-90f5-dc57-3613-d573-6160-09e8-3791-b2f0-03eb] CreationTime[Sunday, October 10, 2021 23:22:53] Type[Autosave] Creator[iCDB Server (2021-10-10 18.20.41-12820)] ApplicationName[iCDB Server (2021-10-10 18.20.41-12820)] UserName[Acero] MachineName[DESKTOP-ANU9D3M] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-10-10 19.22.53 - auto.zip] BackupFileSize[119389] Persistent[FALSE]
